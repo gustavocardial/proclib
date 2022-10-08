@@ -5,9 +5,9 @@ Brazilian domains' release process lists for research purposes
 
 ## Formato do nome dos arquivos / File name format
 
-proclib--<datainicio>--<datafinal>.txt
+proclib--<\datainicio\>--<\datafinal\>.txt
 
-<datainicio> e <datafinal> seguem o formato ano-mês-dia (yyyy-mm-dd)
+<\datainicio\> e <\datafinal\> seguem o formato ano-mês-dia (yyyy-mm-dd)
 
 Exemplo: processo de liberação com início em 08/10/2022 e fim em 15/10/2022 constaria em proclib--2022-10-08--2022-10-15.txt
 
