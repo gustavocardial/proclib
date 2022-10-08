@@ -5,7 +5,7 @@ Brazilian domains' release process lists for research purposes
 
 ## Formato do nome dos arquivos / File name format
 
-proclib--<\datainicio\>--<\datafinal\>.txt
+proclib-- &lt;datainicio>--<\datafinal\>.txt
 
 <\datainicio\> e <\datafinal\> seguem o formato ano-mês-dia (yyyy-mm-dd)
 
